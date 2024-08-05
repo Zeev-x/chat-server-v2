@@ -1,4 +1,4 @@
-# Chat-server-v3
+# Chat-server-v2
 ================
 
 Sebuah server chat yang kuat dan skalabel untuk memenuhi kebutuhan komunikasi Anda.
@@ -13,16 +13,16 @@ Sebuah server chat yang kuat dan skalabel untuk memenuhi kebutuhan komunikasi An
 ## Instalasi
 ------------
 
-Untuk menginstal Chat-server-v3, ikuti langkah-langkah berikut:
+Untuk menginstal Chat-server-v2, ikuti langkah-langkah berikut:
 
 1.  Clone repository ini menggunakan Git:
     ```bash
-    git clone https://github.com/Zeev-x/chat-server-v3.git
+    git clone https://github.com/Zeev-x/chat-server-v2.git
     ```
 
 2.  Navigasi ke direktori proyek:
     ```bash
-    cd chat-server-v3
+    cd chat-server-v2
     ```
 
 3.  Instal dependensi yang diperlukan:
